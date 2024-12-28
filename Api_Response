@@ -1,0 +1,73 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "ce166a66-9ac1-4ac1-9922-ee332a74a93a",
+            "text": "\"The Terminator\". In Mexico City, a newly modified liquid Terminator -- the Rev-9 model -- arrives from the future to kill a young factory worker named Dani Ramos. Also sent back in time is Grace, a hybrid cyborg human who must protect Ramos from the seemingly indestructible robotic assassin.",
+            "timestamp": "2024-12-28T14:24:45.364137Z",
+            "author_username": "Big_Show",
+            "comment_count": 0,
+            "comments": []
+        },
+        {
+            "id": "6f880224-73a3-4a44-8e34-bdbda66ebbfb",
+            "text": "\"Thirteen Ghosts\". The story revolves around a family that inherits a mysterious mansion from a deceased relative. Inside the house, they discover a complex machine designed to open the eye of hell, while being haunted by twelve volatile spirits.",
+            "timestamp": "2024-12-28T14:21:29.349049Z",
+            "author_username": "Undertaker",
+            "comment_count": 0,
+            "comments": []
+        },
+        {
+            "id": "0ab6c83f-ff05-4a1f-b6ef-b6dbc950f171",
+            "text": "\"Fast and Furious\".  Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to end it.",
+            "timestamp": "2024-12-28T14:19:03.151255Z",
+            "author_username": "TheRock",
+            "comment_count": 4,
+            "comments": [
+                {
+                    "text": "what a animation and action done by all charcter very nice movie",
+                    "timestamp": "2024-12-28T14:34:31.730061Z"
+                },
+                {
+                    "text": "like to watch again with college friends",
+                    "timestamp": "2024-12-28T14:33:49.350038Z"
+                },
+                {
+                    "text": "very good movie i like watch with my family",
+                    "timestamp": "2024-12-28T14:32:47.782219Z"
+                }
+            ]
+        },
+        {
+            "id": "d3f56969-d543-49dc-af7b-b27eb61dee7b",
+            "text": "\"Joker: Foil à Deux\".  The main character  wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile attempt to feel like he's part of the world around him",
+            "timestamp": "2024-12-28T14:15:15.867626Z",
+            "author_username": "Kane",
+            "comment_count": 0,
+            "comments": []
+        },
+        {
+            "id": "13b7f09d-0353-450e-bdf1-e30614b0f8a0",
+            "text": "\"The Gardians of The Galaxy Holiday Special\". In the special, the Guardians of the galaxy travel to Earth to find the perfect Chrishtmas gift for their leader.",
+            "timestamp": "2024-12-28T14:10:51.836814Z",
+            "author_username": "Batista",
+            "comment_count": 4,
+            "comments": [
+                {
+                    "text": "the Groot is play very sweet role in entire movie",
+                    "timestamp": "2024-12-28T14:28:32.773150Z"
+                },
+                {
+                    "text": "Its avarage movie not too good or not too bad.",
+                    "timestamp": "2024-12-28T14:27:53.873580Z"
+                },
+                {
+                    "text": "what a finish by all character wooow very nice",
+                    "timestamp": "2024-12-28T14:26:50.823191Z"
+                }
+            ]
+        }
+    ]
+}
