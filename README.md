@@ -6,5 +6,7 @@
    iii)Views.py defining logics of api and how to api gives response in latest post order.
 4) In order to access Api run "pythion3 manage.py runserver" command to start the server. 
 5) EndPoints " http://127.0.0.1:8000/review/ " using this url link can access the api response on local browser or Postman
+6) Please refer Api_Response file to see output.
+7) Thank you 😊
    
 
