@@ -21,5 +21,5 @@ from app.views import PostListView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('rew/', PostListView.as_view(), name="Reviews"),
+    path('review/', PostListView.as_view(), name="Reviews"),
 ]
